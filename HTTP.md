@@ -6,21 +6,7 @@
 ## 2. HTTP 통신 - Request & Response
 - Request(요청) 과 Response(응답)으로 이루어져 있다.
 - 클라이언트가 서버에 요청을 보내면 서버는 요청에 대한 응답 결과를 보내준다.
-- HTTP Request Message
-  - 요청라인 : Method/URL/버전
-  - General Header ㄱ
-  - Request Header ㅡ > 메시지 정보
-  - Entity Header  ┘
-  - CRLF : 공백
-  - BODY : 본문
 
-- HTTP Response Message
-  - 상태라인 : HTTP / 버전 / 응답코드
-  - General Header ㄱ
-  - Response Header ㅡ>  메시지 정보
-  - Entity Header ㅡ┘
-  - CRLF : 공백
-  - Body : 본문
  ---------------------
  ## 3. HTTP통신 - Stateless
  - HTTP 통신은 state 개념이 존재하지 않는다.
