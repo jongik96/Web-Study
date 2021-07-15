@@ -26,9 +26,9 @@
 ----------------------------------
 ## 5. HTTP Request 구조
 1) Start Line (요청 내용)
- - Http 메소드
-   - Request target : 요청의 의도를 담고 있다. (GET, POST, DELETE, UPDATE)
-   - Http ver : 버전에 따라 요청 메시지 구조나 데이터가 다를 수 있어서, version을 명시
+   - Http 메소드
+     - Request target : 요청의 의도를 담고 있다. (GET, POST, DELETE, UPDATE)
+     - Http ver : 버전에 따라 요청 메시지 구조나 데이터가 다를 수 있어서, version을 명시
 2) Header: HTTP 요청이 전송되는 목표 주소
 3) Body
 --------------------------
