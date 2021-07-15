@@ -6,4 +6,4 @@
 ## 2. HTTP 통신 - Request & Response
 - Request(요청) 과 Response(응답)으로 이루어져 있다.
 - 클라이언트가 서버에 요청을 보내면 서버는 요청에 대한 응답 결과를 보내준다.
-https://media.vlpt.us/images/sdc337dc/post/83c5250a-805e-4c2f-ac94-c221bb97ecba/image.png
+
