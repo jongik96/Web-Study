@@ -2,6 +2,7 @@
 ## 설치과정은 생략합니다!
 
 ### 매번 Authorization에 토큰값 넣고 json데이터 계속 입력하고 했는데 엄청 편한 방법이 있었다..
+![포스트맨1](https://user-images.githubusercontent.com/68894097/127862575-73c185d7-4211-48ff-838f-d82cdce67413.png)
 
 1. 사진과 같이 파일들을 폴더식으로 관리 가능하다!
 2. RestAPI를 사용하고 있다면 알맞게 method를 설정 가능해야한다.
